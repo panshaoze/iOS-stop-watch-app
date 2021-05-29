@@ -1,2 +1,2 @@
 # iOS-stop-watch-app
-this a stop watch app for ios 
+a stop watch app demo for ios written in swift
